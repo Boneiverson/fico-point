@@ -1,0 +1,22 @@
+// Color palette for the app
+export default {
+    primary: "#00C853",
+    primaryLight: "#E8F5E9",
+    primaryDark: "#009624",
+    secondary: "#E3F2FD",
+    secondaryDark: "#90CAF9",
+    text: "#212121",
+    textSecondary: "#757575",
+    background: "#FFFFFF",
+    backgroundLight: "#F5F5F5",
+    error: "#FF5252",
+    success: "#4CAF50",
+    warning: "#FFC107",
+    divider: "#EEEEEE",
+    white: "#FFFFFF",
+    black: "#000000",
+    transparent: "transparent",
+    overlay: "rgba(0, 0, 0, 0.5)",
+    card: "#FFFFFF",
+    shadow: "rgba(0, 0, 0, 0.1)",
+  };
